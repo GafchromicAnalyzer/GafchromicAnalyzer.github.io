@@ -24,11 +24,6 @@ import warnings
 import plotly.io as pio
 
 
-
-# https://community.plotly.com/t/dash-range-slider-which-able-to-interact-with-input-field-that-display-range-slider-value/49476/3
-# https://pages.github.com/
-# https://github.com/covid19-dash/covid-dashboard/blob/master/Makefile
-
 ''' Though this code is made in python there still needs to be html elements to have a front end display of the data. id's are refrences to the varirables and 
 styles help with the visual layout of the page. In addition to this are some parameters that I predefined, either as they don't impact callbacks or to make the
 null image layout look nicer.
